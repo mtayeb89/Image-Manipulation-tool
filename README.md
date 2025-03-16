@@ -1,4 +1,4 @@
-Image Manipulation Tool using Pillow
+***Image Manipulation Tool using Pillow***
 Description
 
 This Python tool allows you to perform basic image manipulation tasks like resizing, rotating, converting images to grayscale, and saving the edited image. It uses the Pillow (PIL) library, which is a powerful image processing library for Python.
